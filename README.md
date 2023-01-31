@@ -4,7 +4,7 @@ iARMA
 Description
 ===========
 
-Functions to implement the autoregressive moving average models for irregularly observed time series (iARMA model). The models available in this set of functions are fully described by [(Ojeda et al.(2023))](#1) and [(Ojeda et al.(2022))](#2).
+Functions to implement the autoregressive moving average model for irregularly observed time series (iARMA model). The properties of the models available in this set of functions are fully described by [(Ojeda et al.(2023))](#1) and [(Ojeda et al.(2022))](#2).
 
 Authors
 ======================
